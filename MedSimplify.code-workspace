@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Users/rshivarudraiah/Desktop/Self/Learning/Anthropic/Claude Architect Foundations"
+		}
+	],
+	"settings": {
+		"powershell.cwd": "MedSimplify"
+	}
+}
